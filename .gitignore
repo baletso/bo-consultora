@@ -1,0 +1,7 @@
+# mac / editor
+.DS_Store
+.vscode/
+# node tooling opcional
+node_modules/
+dist/
+build/
